@@ -1,1 +1,1 @@
-run = "npm run asbuild"
+run = "npm run asbuild:untouched"
